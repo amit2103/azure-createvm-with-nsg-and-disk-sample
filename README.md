@@ -19,4 +19,4 @@ Create a Azure Windows VM with NSG configured for RDP access and attach and remo
 
 To run this sample:
 
-We need to set the environment variable `AZURE_AUTH_LOCATION` with the full path for an auth file. See [how to create an auth file](https://github.com/Azure/azure-libraries-for-net/blob/master/AUTH.md).
+We need to set the environment variable `AZURE_AUTH_LOCATION` with the full path for an auth file. See [how to create an auth file](https://github.com/Azure/azure-libraries-for-net/blob/master/AUTH.md).  There are certain points where a key press is needed to proceed this allows us to check the configuration in portals and RDP into the Windows instance if needed. Simply press any key to proceed.
